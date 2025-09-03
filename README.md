@@ -1,59 +1,28 @@
-Dias Úteis
+# 📆 Verificador de Dias Úteis
 
-Um aplicativo simples para calcular a quantidade de dias úteis entre duas datas fornecidas pelo usuário.
+Este projeto simples em JavaScript permite ao usuário informar uma data e receber como resposta se ela é um **dia útil (segunda a sexta)**, **fim de semana (sábado ou domingo)** ou uma **data inválida (qualquer dia que não seja estes a cima)**.
 
-📋 Índice
+## 📝 Descrição
 
-Descrição do Projeto
+O objetivo do projeto é oferecer uma ferramenta rápida e acessível para verificar se uma determinada data é considerada um dia útil. Ideal para quem precisa validar datas em sistemas de agendamento, controle de tarefas ou apenas por curiosidade.
 
-Funcionalidades
+## ⚙️ Funcionalidades
 
-Tecnologias Utilizadas
+- Entrada de uma data pelo usuário
+- Verificação automática:
+  - ✅ Dia útil (segunda a sexta)
+  - 📛 Fim de semana (sábado ou domingo)
+  - ❌ Data inválida (formato incorreto ou inexistente)
 
-Como Usar
+## 🛠️ Tecnologias Utilizadas
 
-GitHub Pages
+- **HTML** – Estrutura da página
+- **CSS** – Estilização básica
+- **JavaScript** – Lógica de verificação da data
 
-Contribuição
-
-Licença
-
-📝 Descrição do Projeto
-
-O projeto Dias Úteis permite ao usuário inserir duas datas e calcular automaticamente o número de dias úteis entre elas. O aplicativo considera apenas os dias de segunda a sexta-feira, excluindo feriados e finais de semana.
-
-⚙️ Funcionalidades
-
-Entrada de duas datas pelo usuário.
-
-Cálculo automático dos dias úteis entre as datas.
-
-Interface simples e intuitiva.
-
-🛠 Tecnologias Utilizadas
-
-HTML: Estruturação da página.
-
-CSS: Estilização da interface.
-
-JavaScript: Lógica de cálculo dos dias úteis.
-
-🚀 Como Usar
+## 🚀 Como Usar
 
 Clone o repositório:
 
+```bash
 git clone https://github.com/LucasCondado/diasuteis.git
-
-
-Navegue até o diretório do projeto:
-
-cd diasuteis
-
-
-Abra o arquivo index.html em seu navegador para utilizar o aplicativo.
-
-🌐 GitHub Pages
-
-Você pode acessar o aplicativo online através do GitHub Pages:
-
-👉 [link](https://lucascondado.github.io/diasuteis/)
