@@ -1,6 +1,6 @@
 # 📆 Verificador de Dias Úteis
 
-Este projeto simples em JavaScript permite ao usuário informar uma data e receber como resposta se ela é um **dia útil (segunda a sexta)**, **fim de semana (sábado ou domingo)** ou uma **data inválida (qualquer dia que não seja estes a cima)**.
+Este projeto simples em JavaScript permite ao usuário informar uma data e receber como resposta se ela é um **dia útil (segunda a sexta)**, **fim de semana (sábado ou domingo)** ou uma **data inválida (qualquer dia que não seja esses a cima)**.
 
 ## 📝 Descrição
 
