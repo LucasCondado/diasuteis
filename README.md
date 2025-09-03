@@ -24,5 +24,5 @@ O objetivo do projeto é oferecer uma ferramenta rápida e acessível para verif
 
 Clone o repositório:
 
-```bash
-git clone https://github.com/LucasCondado/diasuteis.git
+Use Hospedagem via GitHub acessando o link
+[diasuteis]()
