@@ -22,6 +22,6 @@ O objetivo do projeto é oferecer uma ferramenta rápida e acessível para verif
 
 ## 🚀 Como Usar
 
-Use Hospedagem via GitHub acessando o link
+Acesse minha Hospedagem via GitHub acessando o link
 [diasuteis](https://lucascondado.github.io/diasuteis/)
 
