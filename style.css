@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    background-color: darkslategray;
+    color: rgb(119, 106, 10);
+}
+input {
+  text-align: center;
+  font-size: 24px;
+  padding: 15px 20px;
+  border: 2px solid #10de28;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  color: #333;
+  width: 80%;
+  max-width: 500px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+input:focus {
+  outline: none;
+  border-color: #42f57b;
+  box-shadow: 0 0 10px #42f57b;
+  background-color: #fff;
+}
+
+button {
+    padding: 17px;
+    color: rgb(16, 222, 40);
+    font-size: 30px; /* opcional, se quiser deixar o texto maior */
+    background-color: transparent; /* ou outra cor, se quiser */
+    border: 2px solid rgb(16, 222, 40); /* opcional, pra destacar */
+    cursor: pointer; /* faz o cursor virar mãozinha */
+    border-radius: 15px;
+}
+#bolinha ul {
+    list-style-position: inside; /* Faz as bolinhas ficarem dentro da área do texto */
+    padding: 0;
+    margin: 0 auto; /* Centraliza horizontalmente */
+    display: inline-block; /* Faz o ul se comportar como um bloco centralizado */
+    text-align: left; /* Mantém os itens alinhados à esquerda dentro do bloco */
+}
+#resultado {
+    display: block;         /* garante que fique em linha própria */
+    width: 700px;           /* define a largura desejada */
+    margin: 0 auto 20px;    /* centraliza horizontalmente e dá espaço embaixo */
+    text-align: center;     /* centraliza o texto dentro do parágrafo */
+    padding: 10px;
+    border-radius: 8px;
+}
+
