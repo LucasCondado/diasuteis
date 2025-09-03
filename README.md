@@ -4,7 +4,7 @@ Este projeto simples em JavaScript permite ao usuário informar uma data e receb
 
 ## 📝 Descrição
 
-O objetivo do projeto é oferecer uma ferramenta rápida e acessível para verificar se uma determinada data é considerada um dia útil. Ideal para quem precisa validar datas em sistemas de agendamento, controle de tarefas ou apenas por curiosidade.
+O objetivo do projeto é oferecer uma ferramenta rápida e acessível para verificar se uma determinada data(da semana) é considerada um dia útil. Ideal para quem precisa validar datas em sistemas de agendamento, controle de tarefas ou apenas por curiosidade(kkkkkkkkkk).
 
 ## ⚙️ Funcionalidades
 
@@ -21,8 +21,6 @@ O objetivo do projeto é oferecer uma ferramenta rápida e acessível para verif
 - **JavaScript** – Lógica de verificação da data
 
 ## 🚀 Como Usar
-
-Clone o repositório:
 
 Use Hospedagem via GitHub acessando o link
 [diasuteis](https://lucascondado.github.io/diasuteis/)
